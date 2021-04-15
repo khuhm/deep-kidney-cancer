@@ -1,1 +1,1 @@
-# deep-kidney-cancer
+# Deep learning for end-to-end kidney cancer diagnosis on Multi-phase abdominal computed tomography
